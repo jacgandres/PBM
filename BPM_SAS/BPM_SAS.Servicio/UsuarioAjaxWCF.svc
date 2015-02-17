@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="BPM_SAS.Servicio.UsuarioAjaxWCF" CodeBehind="UsuarioAjaxWCF.svc.cs" %>
